@@ -1,6 +1,7 @@
 <?php
 
 // Parada es el parametro para retornar debe ir en la consulta
+
 // Este es un ejemplo
 if($_GET["parada"] === "23") {
 
